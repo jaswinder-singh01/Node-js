@@ -1,0 +1,22 @@
+{
+  "name": "node-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "copyStream.js",
+  "dependencies": {
+    "inherits": "^2.0.4",
+    "multistream": "^4.1.0",
+    "once": "^1.4.0",
+    "readable-stream": "^3.6.0",
+    "safe-buffer": "^5.2.1",
+    "string_decoder": "^1.3.0",
+    "util-deprecate": "^1.0.2",
+    "wrappy": "^1.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jaswinder singh",
+  "license": "ISC"
+}
